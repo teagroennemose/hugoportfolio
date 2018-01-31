@@ -1,7 +1,7 @@
 ---
 title: "Om mig"
 date: 2018-01-30T21:21:46+01:00
-draft: true
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

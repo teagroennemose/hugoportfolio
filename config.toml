@@ -1,5 +1,5 @@
 title = "Hugo Portfolio"
-baseURL = "https://tomanistor.com"
+baseURL = "https://teagroennemose.github.io/hugoportfolio/"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
@@ -8,9 +8,10 @@ canonifyURLS = true
 googleAnalytics = ""
 disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+publishDir = "docs"
 
 [Params]
-    tagline = "Conomarks Portfolio"
+    tagline = "ConoMarks Portfolio"
     author = "Toma Nistor"
     description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
     logoBig = "/images/p1.png"
@@ -29,6 +30,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     cacheBustCSS = false
     cacheBustJS = false
     ajaxFormspree = true
+    extracssfiles = ["styles/main.css"]
+
 
 
 [[menu.main]]

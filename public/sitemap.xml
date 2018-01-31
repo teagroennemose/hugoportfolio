@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://teagroennemose.github.io/hugoportfolio/blog/blog1/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teagroennemose.github.io/hugoportfolio/blog/</loc>
+    <lastmod>2018-01-31T13:30:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teagroennemose.github.io/hugoportfolio/about/</loc>
+    <lastmod>2018-01-30T21:21:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teagroennemose.github.io/hugoportfolio/blog/blog3/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teagroennemose.github.io/hugoportfolio/blog/blog4/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teagroennemose.github.io/hugoportfolio/blog/blog2/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teagroennemose.github.io/hugoportfolio/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
