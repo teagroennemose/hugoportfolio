@@ -1,4 +1,50 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hugo Portfolio"
+baseURL = "https://tomanistor.com"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "en-US"
+config = "config.toml"
 theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = "Conomarks Portfolio"
+    author = "Toma Nistor"
+    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    logoBig = "/images/p1.png"
+    logoSmall = "/images/logo1.png"
+    favicon = "favicon.ico"
+    opengraphImage = "/images/osprey.png"
+    twitter = "TomaNistor"
+    linkedin = "tomanistor"
+    github = "tomanistor"
+    email = ""
+    googleTagManger = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = false
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+
+[[menu.main]]
+    name = "Om"
+    url  = "/#about"
+    weight = 1
+[[menu.main]]
+    name = "Portfolio"
+    url  = "/#work"
+    weight = 2
+[[menu.main]]
+    name = "Blog"
+    url  = "/#blog"
+    weight = 3
+[[menu.main]]
+    name = "Kontakt"
+    url  = "/#contact"
+    weight = 4
+
