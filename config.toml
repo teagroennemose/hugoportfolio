@@ -1,5 +1,5 @@
 title = "Hugo Portfolio"
-baseURL = "https://teagroennemose.github.io/hugoportfolio/"
+baseURL = "https://github.com/teagroennemose/hugoportfolio"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
